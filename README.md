@@ -1,7 +1,7 @@
 # Cookie-Clicker-NHack
 This is where my cookie clicker add-on “NHack” is located.
 
-To use this, in your webbrowser type "javascript:[]" (don't use quotes)
+To use this, in your webbrowser type "javascript:[]" (don't use quotes) on cookie clicker, to run the script.
 Basically what this does is that whenever you press I don't know, like the q key, it asks you "How many cookies?"
 The key things are Q, W, E, A, S, D.
 Q: Asks how many cookies
